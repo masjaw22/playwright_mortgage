@@ -1,0 +1,6 @@
+Status,TestID,Organisation,scanOCR,IDType,NIK,CustomerName,NPWP,JoinIncome,MaritalStatus,FacilityProduct,FacilityPackage
+N,01,01 - Conventional,N,10 - KTP Seumur Hidup,3671061011910004,SUDIRMAN PELANI,3671061011910004,N,S,XMAN,K20317FIXMNR (KPR Xtra Manfaat - Bunga Xtra Bebas)
+N,02,02 - Syariah,N,10 - KTP Seumur Hidup,3671061011910004,SUDIRMAN PELANI,3671061011910004,N,M,XmaniB,iBFlexiFix3 (Rules PKR iB Flexi Fix 3 Tahun)
+N,03,01 - Conventional,N,10 - KTP Seumur Hidup,3337449990001123,ALAN BUDI KUSUM,3337449990001123,N,S,XMAN,K20317FIXMNR (KPR Xtra Manfaat - Bunga Xtra Bebas)
+N,04,02 - Syariah,N,10 - KTP Seumur Hidup,3174094508970006,BUD CAHYON,3174094508970006,N,S,XmaniB,iBFlexiFix3 (Rules PKR iB Flexi Fix 3 Tahun)
+Y,05,01 - Conventional,N,10 - KTP Seumur Hidup,3174094508970006,BUD CAHYON,3174094508970006,N,S,XMAN,K20317FIXMNR (KPR Xtra Manfaat - Bunga Xtra Bebas)
